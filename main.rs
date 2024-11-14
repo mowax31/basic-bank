@@ -2,8 +2,8 @@ use std::io;
 
 fn intro() {
 
-        let usr = "im.mowthik";
-        let pas = "sinkara123";
+        let usr = "ur_username";
+        let pas = "password";
 
         let us = io::stdin();
         let mut ussr = String::new();
